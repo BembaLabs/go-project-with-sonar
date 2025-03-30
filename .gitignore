@@ -1,3 +1,4 @@
 .scannerwork
 coverage.out
 .env
+.homol.json
